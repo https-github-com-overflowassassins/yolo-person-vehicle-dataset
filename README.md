@@ -18,7 +18,7 @@ This project presents a **YOLO-compatible object detection dataset** created by 
 The goal was to convert a raw image dataset into a **clean, validated, and production-ready dataset** suitable for training modern YOLO models (v5–v11).
 
 > ⚠️ Due to GitHub size limits, only a **sample subset (30 images)** is included here.  
-> The **full dataset** is available on [Kaggle](#-dataset-source).
+> The **full dataset** is available on [Kaggle](https://www.kaggle.com/datasets/haseebhsb/yolo-person-vehicle-detection-dataset-annotated).
 
 ---
 
@@ -201,7 +201,7 @@ yolo-person-vehicle-dataset/
 ```
 
 > ⚠️ **Note:** The full `dataset/` folder is **NOT included on GitHub** due to size limitations.  
-> Download the complete dataset from **[Kaggle](#-dataset-source)**.
+> Download the complete dataset from **[Kaggle](https://www.kaggle.com/datasets/haseebhsb/yolo-person-vehicle-detection-dataset-annotated)**.
 
 ---
 
@@ -371,7 +371,7 @@ cd yolo-person-vehicle-dataset
 
 ### 2. Download Full Dataset
 Download the complete dataset from Kaggle and extract to the `dataset/` folder:
-- 📥 **[Download from Kaggle](https://www.kaggle.com/datasets/yourusername/yolo-person-vehicle-dataset)**
+- 📥 **[Download from Kaggle](https://www.kaggle.com/datasets/haseebhsb/yolo-person-vehicle-detection-dataset-annotated)**
 
 ### 3. Verify Dataset Structure
 ```bash
