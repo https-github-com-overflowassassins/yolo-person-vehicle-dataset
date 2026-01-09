@@ -469,7 +469,7 @@ The images used in this project were obtained from a publicly available Kaggle d
 ## 👤 Author
 
 **Haseeb Uddin**  
-*Freelance Data Analyst*
+*Data Analyst*
 
 | Platform | Link |
 |----------|------|
