@@ -476,6 +476,7 @@ The images used in this project were obtained from a publicly available Kaggle d
 | 🐙 GitHub | [github.com/Haseeb-U](https://github.com/Haseeb-U) |
 | 💼 LinkedIn | [linkedin.com/in/haseeb-uddin-q/](https://www.linkedin.com/in/haseeb-uddin-q/) |
 | 📊 Kaggle | [kaggle.com/haseebhsb](https://www.kaggle.com/haseebhsb) |
+| 📊 Portfolio | [https://haseeb-u.github.io/](https://haseeb-u.github.io/) |
 
 ---
 
